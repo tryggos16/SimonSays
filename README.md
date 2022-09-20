@@ -1,14 +1,16 @@
-# simonSays 
+# SimonSays 
+
 
 * # 1.Stutt verkefnalýsing, höfundur.
-    ## Höfundur: 'Tryggvi Thor Bogason'
-    ## Verkefnalýsing: !(Athuga er bara med enskt lykllabord) <br />
-    'in this project we use an (Arduino) to creat a Simonsays Box'. <br />
+    ## This Readme only contain pictures of the finals
+    * ## Höfundur: 'Tryggvi Thor Bogason'
+    * ## Verkefnalýsing: !(Athuga er bara med enskt lykllabord) <br />
+    'in this project we use an (Arduino) to create a Simonsays Box'. <br />
     * 1. We started by putting together breadboards to learn how the electricity flows through the connectors we put on it. <br />
-    * 2. We then used (Inkscape) to creat the Box that would be cut with a laser cuter and use later. <br />
+    * 2. We then used (Inkscape) to create the Box that would be cut with a laser cutter and used later. <br />
     * 3. Then we started soldering on a Veroboard/Stripboard to recreat what we did previously on the breadboard.
     * 4. After all that stress from soldering, we plug it into the arduino that is installed with a Simonsays program and see if it works.
-    * 5. Lastly we put the Box together that we made with Inkscape, put the LED's in there place, connect all the wires to the arduino,<br /> And we are done
+    * 5. Lastly we put the Box together that we made with Inkscape, put the LED's in there place, connect all the wires to the arduino,<br /> And we are done. :)
 
 
 * # 2.Tengil á myndband af virkni (spilun) lokafurðar.
