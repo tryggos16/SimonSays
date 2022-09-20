@@ -1,7 +1,14 @@
 # simonSays 
 
-* # 1.verkefins lising
-    ## Todo
+* # 1.Stutt verkefnalýsing, höfundur.
+    ## Höfundur: 'Tryggvi Thor Bogason'
+    ## Verkefnalýsing: !(Athuga er bara med enskt lykllabord) <br />
+    'in this project we use an (Arduino) to creat a Simonsays Box'. <br />
+    * 1. We started by putting together breadboards to learn how the electricity flows through the connectors we put on it. <br />
+    * 2. We then used (Inkscape) to creat the Box that would be cut with a laser cuter and use later. <br />
+    * 3. Then we started soldering on a Veroboard/Stripboard to recreat what we did previously on the breadboard.
+    * 4. After all that stress from soldering, we plug it into the arduino that is installed with a Simonsays program and see if it works.
+    * 5. Lastly we put the Box together that we made with Inkscape, put the LED's in there place, connect all the wires to the arduino,<br /> And we are done
 
 
 * # 2.Tengil á myndband af virkni (spilun) lokafurðar.
@@ -10,7 +17,8 @@
 
 * # 3.Ljósmyndir af lokaafurð (inní kassa og utan)
     ## 3.1 utan
-    ![16248](https://user-images.githubusercontent.com/101139768/191352996-cab42420-7e26-4c65-8590-ae7cc093ad3e.jpg)
+    ![20220916_095332](https://user-images.githubusercontent.com/101139768/191360378-ca5f772a-7972-46d4-8848-8002a8f6da2c.jpg)
+
 
   ## 3.2 inni kassa
     ## todo
@@ -20,8 +28,9 @@
     ## 4.1 Aftan
     ![20220920_152111](https://user-images.githubusercontent.com/101139768/191346575-e562de0b-300c-4c85-8bfd-73dda71d6351.jpg)
 
-    ## Framan
-      Todo
+    ## 4.2 Framan
+    ![20220916_095337](https://user-images.githubusercontent.com/101139768/191360537-7e5c1a43-a892-4ec3-8ae7-753b1b627348.jpg)
+
 
 * # 5.Hönnunarteikning (.svg) af kassa.
     ![Tskoli_SimonsaysBox_2](https://user-images.githubusercontent.com/101139768/191357239-29c44d16-78d0-4fac-987b-0760673a4688.svg)
