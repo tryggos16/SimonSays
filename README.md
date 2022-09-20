@@ -1,13 +1,12 @@
 # simonSays 
 
--
 * # 1.verkefins lising
     ## Todo
 
 
 * # 2.Tengil á myndband af virkni (spilun) lokafurðar.
-    ## Todo
-    
+    https://user-images.githubusercontent.com/101139768/191356800-0b6a3c19-dd7b-4544-b39a-a8643d38eb8d.mp4
+
 
 * # 3.Ljósmyndir af lokaafurð (inní kassa og utan)
     ## 3.1 utan
@@ -25,8 +24,8 @@
       Todo
 
 * # 5.Hönnunarteikning (.svg) af kassa.
-    ## Todo
-    
+    ![Tskoli_SimonsaysBox_2](https://user-images.githubusercontent.com/101139768/191357239-29c44d16-78d0-4fac-987b-0760673a4688.svg)
+
 
 * # 6.Ljósmynd af samsetningu frumgerðar (brauðbretti, takkar, vírar o.s.frv.)
     ![16237](https://user-images.githubusercontent.com/101139768/191344203-6ad729d7-2ea3-471b-8652-6d0fc72a89d1.jpg)
