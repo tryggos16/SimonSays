@@ -2,9 +2,8 @@
 
 
 * # 1.Stutt verkefnalýsing, höfundur.
-    ## This Readme only contain pictures of the finals
     * ## Höfundur: 'Tryggvi Thor Bogason'
-    * ## Verkefnalýsing: !(Athuga er bara med enskt lykllabord) <br />
+    * ## Verkefnalýsing: !(Athuga er bara med enskt lyklabord svo ad eg mun skrifa a ensku) <br />
     'in this project we use an (Arduino) to create a Simonsays Box'. <br />
     * 1. We started by putting together breadboards to learn how the electricity flows through the connectors we put on it. <br />
     * 2. We then used (Inkscape) to create the Box that would be cut with a laser cutter and used later. <br />
