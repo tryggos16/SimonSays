@@ -22,8 +22,8 @@
     ![20220916_095332](https://user-images.githubusercontent.com/101139768/191360378-ca5f772a-7972-46d4-8848-8002a8f6da2c.jpg)
 
 
-  ## 3.2 inni kassa
-    ## todo
+    ## 3.2 inni kassa
+    ![20220922_110035](https://user-images.githubusercontent.com/101139768/191732201-1cda2ee6-9b35-43a2-861e-776dd19cd139.jpg)
     
     
 * # 4.Ljósmyndir af lóðun (báðar hliðar).
@@ -35,7 +35,7 @@
 
 
 * # 5.Hönnunarteikning (.svg) af kassa.
-    ![Tskoli_SimonsaysBox_2](https://user-images.githubusercontent.com/101139768/191357239-29c44d16-78d0-4fac-987b-0760673a4688.svg)
+    ![Tskoli_Green_SimonSays_Box](https://user-images.githubusercontent.com/101139768/191734147-c1c9468d-ff82-470b-bd5b-bce3026218c8.svg)
 
 
 * # 6.Ljósmynd af samsetningu frumgerðar (brauðbretti, takkar, vírar o.s.frv.)
